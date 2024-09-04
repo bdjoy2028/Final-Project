@@ -1,0 +1,48 @@
+[
+  {
+    "highScoreTotal": 5,
+    "highScoreName": "Brian Kernighan"
+  },
+  {
+    "highScoreTotal": 7,
+    "highScoreName": "Max Kanat-Alexander"
+  },
+  {
+    "highScoreTotal": 6,
+    "highScoreName": "Brian Kernighan"
+  },
+  {
+    "highScoreTotal": 5,
+    "highScoreName": "Robert Whitaker"
+  },
+  {
+    "highScoreTotal": 5,
+    "highScoreName": "Kent Beck"
+  },
+  {
+    "highScoreTotal": 10,
+    "highScoreName": "Edward V. Berard"
+  },
+  {
+    "highScoreTotal": 12,
+    "highScoreName": "Alan Kay"
+  },
+  {
+    "highScoreTotal": 14,
+    "highScoreName": "Chloe Arr"
+  },
+  {
+    "highScoreTotal": 10,
+    "highScoreName": "David Thomas"
+  },
+
+  {
+    "highScoreTotal": 18,
+    "highScoreName": "Donald Knuth"
+  },
+
+  {
+    "highScoreTotal": 13,
+    "highScoreName": "Lernantino"
+  }
+]
